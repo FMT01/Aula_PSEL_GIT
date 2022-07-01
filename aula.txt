@@ -12,7 +12,9 @@ $git log                            mostra todos os commits ate agr feitos nesse
 
 Nome - Idade - Curso - Animal que seria
 
-Fernando - 21 anos - Controle e Automação - Elefante
+Fernando - 21 anos - Controle e Automacao - Elefante
 
-Arthur - 17 anos - Computação - Cachorro
+Arthur - 17 anos - Computacao - Cachorro
+
+Christopher - 20 anos - Controle e Automacao - Leao
 
