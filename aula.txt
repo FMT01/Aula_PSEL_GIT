@@ -1,5 +1,18 @@
 /*****  AULA DE GIT   *****/
 
+/* 
+$git clone <repositorio_git>        clona o repositorio na sua pasta(diretorio) atual
+$git checkout <branch_a_ser_mudado> vai para o branch que vc quer ir(muda)
+$git pull                           puxa(pull) tudo de novo do github para seu git
+$git add <novo_arquivo>             faz com que o git consiga rastrear o novo aruivo criado
+$git commit -m "comentario lindo"   cria um comentario de modificacoes feitas nesse repositorio(marcando o momento)
+$git push                           enviar para o github os novos commits que foram feitos no teu git
+$git log                            mostra todos os commits ate agr feitos nesse branch(ramo)
+ */
+
 Nome - Idade - Curso - Animal que seria
 
 Fernando - 21 anos - Controle e Automação - Elefante
+
+Arthur - 17 anos - Computação - Cachorro
+
