@@ -1,0 +1,5 @@
+/*****  AULA DE GIT   *****/
+
+Nome - Idade - Curso - Animal que seria
+
+Fernando - 21 anos - Controle e Automação - Elefante
