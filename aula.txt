@@ -23,3 +23,5 @@ Eduardo - 21 anos - Controle e Automacao - mosca
 Luana - 17 anos - Computacao - Coruja
 
 Raul - 20 anos - Computacao - Mariposa
+
+Lucas - 22 anos - Eletronica - Gato
