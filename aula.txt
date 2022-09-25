@@ -1,3 +1,4 @@
+B
 /*****  AULA DE GIT   *****/
  
 $git clone <repositorio_git>        clona o repositorio na sua pasta(diretorio) atual
